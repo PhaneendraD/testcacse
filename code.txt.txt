@@ -1,0 +1,5 @@
+Header	ShipmentNotice	Excel Courier Company	551552	225121	1000	054445	AmazeOn	 21255 Short lane	Atlanta	US	NA	55055	2016-08-02	15
+Detail	Amz814376	CCO276981	DDO276981	9814376	054445	AMZ009
+Trailer	Cash on Delivery	Door Delivery
+
+
